@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://electrogrow.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://electrogrow.github.io/</loc>
+</url>
+<url>
+<loc>https://electrogrow.github.io/backyard-garden-electroculture-creates-large-broccoli-tomato-and-eggplants.html</loc>
+<lastmod>2020-05-08T01:19:46-05:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/5/bp_garden1_2013.jpg</image:loc>
+<image:title><![CDATA[Garden before electric field is applied]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/5/bp_garden2_2013.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/5/bp_garden3_2013.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/5/bp_garden4_2013.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/does-sound-and-music-to-enhance-plant-growth.html</loc>
+<lastmod>2020-05-08T01:00:33-05:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/4/plant_speakers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/electroculture-tomato-growers-achieve-50-percent-gains.html</loc>
+<lastmod>2020-05-07T00:59:55-05:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/3/weber-50pct-tomatoes-800x800.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/3/weber-tomato-early-2014-800x367.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/harveststorm-alpha-1-crop-stimulation-system.html</loc>
+<lastmod>2020-02-01T18:32:58-06:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/1/HS-alpha-1-shot1.jpg</image:loc>
+<image:title><![CDATA[HarvestStorm Alpha-1 Crop Stimulator]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/increased-germination-and-growth-rate-in-lettuce.html</loc>
+<lastmod>2020-05-10T00:09:37-05:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/7/solar_lettuce1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/7/solar_lettuce2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/research-in-pictures-rapid-seedling-growth-using-electricity.html</loc>
+<lastmod>2020-05-08T01:29:42-05:00</lastmod>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/6/takamura1.jpg</image:loc>
+<image:title><![CDATA[Electroculture applied to black gram seeds]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://electrogrow.github.io/media/posts/6/takamura2.jpg</image:loc>
+<image:title><![CDATA[Enhanced root mass from electroculture on Zea Mays]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://electrogrow.github.io/welcome-to-the-electric-fertilizer-blog.html</loc>
+<lastmod>2020-05-01T03:09:35-05:00</lastmod>
+</url>
+</urlset>
