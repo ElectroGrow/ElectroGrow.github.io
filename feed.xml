@@ -3,12 +3,78 @@
     <title>Electric Fertilizer</title>
     <link href="https://electrogrow.github.io/feed.xml" rel="self" />
     <link href="https://electrogrow.github.io" />
-    <updated>2020-05-10T00:54:20-05:00</updated>
+    <updated>2020-06-05T00:08:35-05:00</updated>
     <author>
         <name>David Wechsler</name>
     </author>
     <id>https://electrogrow.github.io</id>
 
+    <entry>
+        <title>STEM Application Notes: DC Electroculture</title>
+        <author>
+            <name>David Wechsler</name>
+        </author>
+        <link href="https://electrogrow.github.io/stem-application-notes-dc-electroculture.html"/>
+        <id>https://electrogrow.github.io/stem-application-notes-dc-electroculture.html</id>
+            <category term="stem"/>
+            <category term="dc-electroculture"/>
+            <category term="application-notes"/>
+
+        <updated>2020-05-23T08:07:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    The Scientific Basics of DC ElectrocultureThe science of electroculture is a fascinating&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1e8v1dogl3">The Scientific Basics of DC Electroculture</h2>
+<p>The science of electroculture is a fascinating topic of study involving multiple fields of study:</p>
+<ul>
+<li>Basic electricity concepts and formulas</li>
+<li>Electrochemisty</li>
+<li>Soils, pH, nutrients, etc.</li>
+<li>Plant physiology</li>
+<li>Plant electrophysiology</li>
+</ul>
+<p>Here's an article I wrote a few years' back on Electroculture 101... you can read about it on Medium here:  <a href="https://medium.com/@dwechsler/an-introduction-to-the-science-of-electroculture-95c16b7da5fc">https://medium.com/@dwechsler/an-introduction-to-the-science-of-electroculture-95c16b7da5fc</a></p>
+<p>The interdisciplinary aspect of electroculture is one of the things I love most about it as it combines many aspects of science I find so completely interesting.  Furthermore, because electroculture at its roots is relatively simple to try out, it makes it very accessible to all for performing basic forms of experiments.</p>
+<h3 id="mcetoc_1e8v2mtou4"><strong>Electroculture Experiment Ideas</strong></h3>
+<p>While the world of electroculture is quite old in that the modern world discovered it in the late 1700s, it's maturity as a science is rather immature (IMHO).  As such, I believe there is plenty of room for great discoveries to be made and YOU can be a part of that discovery process.</p>
+<p>Over the years, I've collected many experimental ideas that others have performed and that I'd like to see performed as well.  Here are a few of them:</p>
+<ul>
+<li>Testing the effect of various voltages and currents on a wide array of plants. </li>
+<li>Testing the effect of constant-current power sources to determine the effects of specific current levels on getting results</li>
+<li>Effect of different soil types against known working voltage and current levels for a particular plant.</li>
+<li>Effect of soil resistance vs electrode area with respect to current density and plant responses</li>
+<li>Stimulation timing and dosage experiments... either manually, or with additional circuitry (e.g. plug-in timer + DC power supply, or you can use a solar cell with varying lighting patterns) - test out the effects of different amount of electrical stimulation.
+<ul>
+<li>Daytime only stimulation</li>
+<li>Night-time only stimulation</li>
+<li>limited daytime stimulation, e.g. 1 hour per day vs 8 hours per day</li>
+</ul>
+</li>
+<li>Seed-only electrification - instead of placing the electrodes in soil for continuous seed + plant based stimulation, just apply electricity during the seed stage.  Try out different stimulation times.  </li>
+</ul>
+<p>Many of these experiments can built upon to get to the next level in a given investigation.  For instance, after determining the parameters that cause a plant to respond favorably, e.g. voltage, current (if measured), soil type/resistance, etc... those same parameters can be used to test out the effect with a long-range study where an entire row of crops is evaluated.</p>
+<h3 id="mcetoc_1e8umcthq0"><strong>DC Electroculture Tips &amp; Tricks</strong></h3>
+<p>In case you don't know, the application of electric fields to plants causes a wide array of effects.  One series of effects is as follows:</p>
+<p>Electric fields upon plants cause the initiation of cellular events called action potentials to occur.  These, in effect, cause nerve-signaling like responses that cause electrical energy to pulsate throughout the plant.  This then affects the plant's overall metabolism, putting it into high gear, affecting respiration, and transpiration.</p>
+<p>&lt; Create visualization of this chain of effects &gt;</p>
+<p>What does this mean with regards to how we need to adjust the way we tend to our garden?  </p>
+<p>For starters, you may need to water your plants more frequently... because with greater transpiration, greater amounts of water (&amp; nutrients) are brought into the plant and "exhaled" through the leaf stomata.  So if you're growing in a container that doesn't have a continuous water supply (e.g. drip irrigation), then you may need to water your plants more frequently.  If you're doing drip, you may need to increase your watering frequency or even the flow-rate.</p>
+<p>Another thing you may need to be aware of that the flow of electricity is very minimal in dry, sandy soils.  Electricity flows best through soils that have high CEC (Cation Exchange Capacity).  What this means is that these types of soils tend to have a high degree of nutrient availability, meaning they are full of nutrients, texture, and are the embodiment of really healthy soils.  Soils that are completely dried out, or overly sandy, conduct electricity poorly and will have a negative or neutral effect on the results.  So, if you're growing in-ground on land of poor quality, you may want to till the soil up and add in some amendments like organic fertilizer, peat, etc. to improve the growing conditions.</p>
+<p>Lastly, when growing with DC electroculture, one effect that you're surely going to notice occurs at the end of the growing cycle, when you go to remove your electrodes.  What usually happens is you end up losing much of the material that comprises the positive one.  So when performing your experiments, be sure to choose electrodes materials that are thick enough to last through an entire growing season (in other words, don't use paper clip electrodes).  Thick nails are best. </p>
+<p>&lt; add sharps safety picture &gt;</p>
+<p>Second, depending upon the setup of your growing container, the voltages and currents used, and the amount of moisture present over time, it's possible that your electrodes, as they corrode due to the electric field present, will eventually form sharp points.  So at the end of the growing term be sure to not only replace your electrodes, but also be careful in removing them as they can be extremely sharp.</p>
+<h3 id="mcetoc_1e8vb75ic5">Summary</h3>
+<p>We covered a number of things in this app note - the interdisciplinary nature of electroculture, some experiment ideas to try out, and some growing tips as well!</p>
+<p>Moving forward, be sure to record data from your experiments</p>
+<p>&lt; link to data recording sheet &gt;</p>
+<p>and take pictures along the way.  If you send us pictures of your progress, we would love to add your pictures to our picture gallery and help show off your success to the world.  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Increased Germination &amp; Growth Rate in Lettuce</title>
         <author>
@@ -50,15 +116,19 @@
         </author>
         <link href="https://electrogrow.github.io/research-in-pictures-rapid-seedling-growth-using-electricity.html"/>
         <id>https://electrogrow.github.io/research-in-pictures-rapid-seedling-growth-using-electricity.html</id>
+            <category term="experiments"/>
+            <category term="electroculture"/>
 
-        <updated>2020-05-08T01:29:42-05:00</updated>
+        <updated>2020-06-04T21:59:00-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://electrogrow.github.io/media/posts/6/takamura2.jpg" alt="Electroculture research photos" />
                     (Originally published in November, 2013) So you may have been wondering, what&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://electrogrow.github.io/media/posts/6/takamura2.jpg" alt="Electroculture research photos" />
                 <p><em>(Originally published in November, 2013)</em></p>
 <p>So you may have been wondering, what real scientific research has been going on with respect to electroculture… right?  I had the same thoughts when I first set out on this journey, too.  In today’s picture post,  I’m going to share with you a couple pictures from a research article by Tsutomu Takamura.</p>
 <p>Here is a picture of an experiment showing some urad bean (Vigna mungo (L.)) seedlings:</p>
@@ -84,21 +154,23 @@
         <link href="https://electrogrow.github.io/backyard-garden-electroculture-creates-large-broccoli-tomato-and-eggplants.html"/>
         <id>https://electrogrow.github.io/backyard-garden-electroculture-creates-large-broccoli-tomato-and-eggplants.html</id>
 
-        <updated>2020-05-08T01:19:46-05:00</updated>
+        <updated>2020-06-05T00:07:31-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://electrogrow.github.io/media/posts/5/bp_garden3_2013.jpg" alt="" />
                     (Originally published in January 2014, following an experiment the previous summer) Here’s&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://electrogrow.github.io/media/posts/5/bp_garden3_2013.jpg" alt="" />
                 <p><em>(Originally published in January 2014, following an experiment the previous summer)</em></p>
 <p>Here’s an email I received last September from a friend of mine who was interested in trying out electroculture:</p>
 <p><em><span style="background: white;">“This summer I planted a vegetable garden in my front yard. I planted tomatoes, eggplant, broccoli, peppers, and chard. I wanted to to try David Wechsler’s “electric fertilizer” concept, so I constructed a crude magnetic field generator: an old Samsung phone charger with a 5v, 550 ma output, connected by lamp cord to two three-inch nails, one connected to each wire of the charger. I buried the nails, upright, some distance apart, just below the ground in the center of the garden, and plugged the charger into an outside 110v plug. The garden is about 25 feet by 14 feet. The long axis is east to west. The nails were positioned on the east and west sides.</span></em><br><em><span style="background: white;">I was surprised at what a strong effect the electrical fertilizer unit had on my garden. This was especially noticeable with the tomatoes. The tomatoes near the field generator grew much larger and ripened a good week or more earlier than the distant ones. This also happened with the broccoli and eggplant. The plants nearest the field generator grew noticeably bigger and ripened much faster than the more distant ones.</span></em><br><em><span style="background: white;">Now, at the end of the season, this effect is still visible. I am picking all the last ripe tomatoes from the plants nearest the electricity.</span></em><br><em><span style="background: white;">So I was impressed, and I intend to use this system again next year. I am thinking that something a little more professionally constructed than a phone charger, lamp cord, and nails might be nice”.</span></em><br><span style="font-family: Roboto; color: #676767; background: white;">– </span><a href="http://moleculefarm.blogspot.com/"><span style="font-family: inherit; background: white;">Bill Perry, </span></a>St. Louis, MO<br><span style="background: white;"> </span><br><span style="background: white;">Here’s a picture of what the garden looked like before the electric system was installed:</span></p>
 <p><img class="post__image post__image--center" src="https://electrogrow.github.io/media/posts/5/bp_garden1_2013.jpg" alt="Garden before electric field is applied" width="500" height="275"></p>
 <p>Bill’s garden a few weeks later.  Note the two sets of plants beyond the walking path. <img class="post__image post__image--center" src="https://electrogrow.github.io/media/posts/5/bp_garden2_2013.jpg" alt="" width="500" height="322"></p>
 <p>You can see that the row of plants closest to the path is taller than the rows further away..  This is due to the fact that the electric field is originating next to the path.  As the field diminishes over distance, so does the growth amplification effect.</p>
-<p> <img class="post__image post__image--center" src="https://electrogrow.github.io/media/posts/5/bp_garden3_2013.jpg" alt="" width="500" height="375"></p>
+<figure class="post__image"><img class="align-center" src="https://electrogrow.github.io/media/posts/5/bp_garden3_2013-annotated.jpg" alt="" width="500" height="375"></figure>
 <p>This photo shows how the broccoli plants to the lower right are larger than the ones moving left-ward. The positive electrode is about 8 feet away to the right from the largest plant in the center.  It’s interesting to note that as the electric field diminishes over distance, so does plant height and leaf area.</p>
 <p>The effect can also be seen on his tomatoes…. Here are some pics depicting the average differences in size, based on distance away from the electrodes:</p>
 <p> <img class="post__image post__image--center" src="https://electrogrow.github.io/media/posts/5/bp_garden4_2013.jpg" alt="" width="910" height="410"></p>
